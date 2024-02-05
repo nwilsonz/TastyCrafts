@@ -6,13 +6,13 @@ import { getDatabase } from 'firebase/database'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDQUm6FRFXnXyIiLh0d2doKXYbUzMLIyso",
-  authDomain: "tastycrafts-e0491.firebaseapp.com",
-  projectId: "tastycrafts-e0491",
-  storageBucket: "tastycrafts-e0491.appspot.com",
-  messagingSenderId: "849844866510",
-  appId: "1:849844866510:web:ed6bf652ea24f9ba9caf9f"
-};
+    apiKey: "AIzaSyChPodBbAaf58yFrohzFzkQIG3SM42ZEpQ",
+    authDomain: "tasty-crafts.firebaseapp.com",
+    projectId: "tasty-crafts",
+    storageBucket: "tasty-crafts.appspot.com",
+    messagingSenderId: "292588330385",
+    appId: "1:292588330385:web:03c147846c2f7e7bde8e30"
+  };
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
