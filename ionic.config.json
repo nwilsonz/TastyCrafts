@@ -1,0 +1,8 @@
+{
+  "name": "TastyCrafts2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "7a7c836f"
+}
